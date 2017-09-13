@@ -1,5 +1,7 @@
 This README is just a fast *quick start* document. You can find more detailed documentation at http://redis.io.
 
+add redis4.0 comments by cchenkey
+
 What is Redis?
 --------------
 
